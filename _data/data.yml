@@ -7,20 +7,20 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
+    name: Francis Gomez
     tagline: Full Stack Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: rigoyots@gmail.com
+    phone: + 63 947 312 0147
+    website: #do not add http://
+    linkedin: www.linkedin.com/in/francis-gomez-332107184
+    github: rigoyots
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -29,73 +29,52 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: Filipino
+        level: Native
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: 
+        level: 
 
     interests:
-      - item: Climbing
+      - item: Road Trips
         link:
 
-      - item: Snowboarding
+      - item: Experimenting in the Kitchen
         link:
 
-      - item: Cooking
+      - item: Songwriting
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I did SEO writing and proofreading for US based companies on a freelance basis.
+      I then worked in advertising for 4 years. My work included ads on radio, print, and social media. 
+      I was subsequently transferred to a sister company and worked as its business development manager.
+      When the coronavirus pandemic broke out, I left my job in Manila and decided to work remote.
+      Currently, I run an English tutorial service with my wife with clients from Japan and Vietnam.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: B Public Administration
+      university: University of the Philippines
+      time: 2013 - 2014, 2016 - 2017
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I completed 3 semesters at this university. My break from 2014-2016 was due to volunteer work I rendered to my church. 
+        I withdrew from school in 2017 to focus on work upon getting married.
+          - Active in student organizations that hosted forums and seminars in the university.
+          - Consistently high grades.
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Self-employed
+      time: 2020 - Present
+      company: Albania-Gomez English Tutorials, remote
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        I run an English tutorial service together with my wife. Our clients are from Japan and Vietnam.
+        Work includes communicating with clients to discuss payment, class rules, and sorting out any problems that may occur.
+        I conduct the screening process for new teachers, and assist in their training.
+          - Helped grow the business to include half a dozen teachers.
+          - Conducted training on new teachers as well as creating a database of teaching materials.
+    - role: Business Development Manager
+      time: 2020
+      company: Bauertek Corporation, Metro Manila
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -104,17 +83,13 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Marketing and Advertising
+      time: 2017 - 2020
+      company: The GlobaLeader Inc., Metro Manila
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        I was in charge of multiple talk shows hosted on radio and social media. I assisted in maintaining the company website and social media pages. 
+          - Helped increase sales allowing the company to open branches across more cities.
+          - Assisted in rebranding the corporate identity.
 projects:
     title: Projects
     intro: >
