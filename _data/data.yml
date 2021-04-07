@@ -9,13 +9,13 @@ sidebar:
     # Profile information
     name: Francis Gomez
     tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: rigo-picture.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: rigoyots@gmail.com
     phone: + 63 947 312 0147
     website: #do not add http://
-    linkedin: www.linkedin.com/in/francis-gomez-332107184
+    linkedin: www.linkedin.com/in/rigoyots
     github: rigoyots
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -31,9 +31,6 @@ sidebar:
 
       - idiom: Filipino
         level: Native
-
-      - idiom: 
-        level: 
 
     interests:
       - item: Road Trips
@@ -65,7 +62,7 @@ education:
 experiences:
     - role: Self-employed
       time: 2020 - Present
-      company: Albania-Gomez English Tutorials, remote
+      company: Albania-Gomez English Tutorials
       details: |
         I run an English tutorial service together with my wife. Our clients are from Japan and Vietnam.
         Work includes communicating with clients to discuss payment, class rules, and sorting out any problems that may occur.
@@ -93,29 +90,27 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You can find some projects I have worked on below.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: To Do List
+        link: "https://ringo-todolist.herokuapp.com/"
+        tagline: "A simple to do list that lets you add and delete items. Made with Node, Express, EJS, and MongoDB Atlas. Try adding another /path to make a new list!"
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Blog
+        link: "https://ringo-blog.herokuapp.com/"
+        tagline: "A blog website that lets you compose and delete posts. Made with Node, Express, EJS, and MongoDB Atlas."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: 
+        link: ""
+        tagline: ""
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: 
+        link: ""
+        tagline: ""
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: 
+        link: ""
+        tagline: ""
 
 publications:
     title: Publications
