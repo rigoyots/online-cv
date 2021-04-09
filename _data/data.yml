@@ -102,6 +102,11 @@ projects:
       - title: Blog
         link: "https://ringo-blog.herokuapp.com/"
         tagline: "A blog website that lets you compose and delete posts. Made with Node, Express, EJS, and MongoDB Atlas."
+
+      - title: Google Authentication with Passport
+        link: "https://github.com/rigoyots/google-auth/tree/google"
+        tagline: "You can download or fork this code. Made with Node, Express, Mongoose, and Passport.js."
+
 skills:
     title: Skills &amp; Proficiency
 
