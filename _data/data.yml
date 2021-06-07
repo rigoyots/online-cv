@@ -115,18 +115,21 @@ skills:
         level: 100%
 
       - name: Python
-        level: 50%
+        level: 75%
 
       - name: Swift
         level: 25%
 
       - name: HTML5 & CSS
-        level: 75%
+        level: 50%
 
       - name: JAVA
         level: 25%
         
       - name: PHP
+        level: 25%
+        
+      - name: AWS
         level: 25%
 
 footer: >
