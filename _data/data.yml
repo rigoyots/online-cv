@@ -45,11 +45,12 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
+      I am currently working remote as a Laravel developer.
       I did SEO writing and proofreading for US based companies on a freelance basis.
       I then worked in advertising for 4 years. My work included ads on radio, print, and social media. 
       I was subsequently transferred to a sister company and worked as its business development manager.
       When the coronavirus pandemic broke out, I left my job in Manila and decided to work remote.
-      Currently, I run an English tutorial service with my wife with clients from France, Japan, and Vietnam.
+      At the moment, I run an English tutorial service with my wife with clients from France, Japan, and Vietnam.
 education:
     - degree: B Public Administration
       university: University of the Philippines
@@ -65,6 +66,15 @@ education:
       details: |
         This degree is offered by the university completely remote.
 experiences:
+    - role: Web Developer
+      time: 2021 - Present
+      company: Argon Software
+      details: |
+        I do full stack developing with PHP and Laravel. We use the TALL stack (Tailwind, Alpine.js, Laravel, and Livewire). 
+        I also write API's to support the front end team.
+        We work in a scrum environment and collaborate using Jira, Slack, Speca, Figma, etc.
+          - Worked on an online doctor consultation website.
+          - Currently working on a Korean/US e-commerce website.
     - role: Self-employed
       time: 2020 - Present
       company: Albania-Gomez English Tutorials
