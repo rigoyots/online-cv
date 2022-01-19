@@ -126,26 +126,38 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Node
-        level: 100%
-
-      - name: Python
-        level: 75%
-
-      - name: Swift
-        level: 25%
-
       - name: HTML5 & CSS
-        level: 50%
-
-      - name: JAVA
-        level: 25%
+        level: 100%
         
       - name: PHP
-        level: 25%
+        level: 100%        
+        
+      - name: Laravel
+        level: 100%
+
+      - name: Livewire
+        level: 100%  
+
+      - name: Tailwind
+        level: 100%  
+        
+      - name: Alpine.js
+        level: 75%          
         
       - name: AWS
-        level: 25%
+        level: 50%        
+        
+      - name: Node
+        level: 50%
+        
+      - name: Python
+        level: 50%
+
+      - name: Swift
+        level: 25% 
+        
+      - name: JAVA
+        level: 25%        
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
